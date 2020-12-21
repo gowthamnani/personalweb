@@ -1,6 +1,5 @@
 
-The webpage is hosted at github.com/gowthamnani/personalweb
-
+The webpage is hosted at gowthamnani.github.io/personalweb/
 
 
 #########################################################################################################
